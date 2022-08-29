@@ -1232,7 +1232,7 @@
       "key": "ReceiptRegister",
       "roleAttributeAccessList": [
         {
-          "roleCode": "PT_CEMP",
+          "roleCode": "EMPLOYEE",
           "attributeAccessList": [
             {
               "attribute": {
