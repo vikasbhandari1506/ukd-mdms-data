@@ -720,6 +720,22 @@
       "roleBasedDecryptionPolicy": []
     },
     {
+      "model": "MiscReceiptULBCancelled",
+      "uniqueIdentifier": {
+        "name": "user_uuid",
+        "jsonPath": "user_uuid"
+      },
+      "attributes": [
+        {
+          "name": "username",
+          "jsonPath": "username",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
+    },
+    {
       "model": "PTCollectionReport",
       "uniqueIdentifier": {
         "name": "user_uuid",
