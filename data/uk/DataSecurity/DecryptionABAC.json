@@ -1242,7 +1242,7 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/ownername"
+                "jsonPath": "*/username"
               },
               "accessType": "PLAIN"
             }
