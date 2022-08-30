@@ -711,8 +711,8 @@
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "ownername",
-          "jsonPath": "ownername",
+          "name": "username",
+          "jsonPath": "username",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         }
