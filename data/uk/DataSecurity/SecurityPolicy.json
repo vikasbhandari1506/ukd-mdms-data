@@ -709,6 +709,12 @@
           "jsonPath": "name",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "ownername",
+          "jsonPath": "ownername",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
         }
       ],
       "roleBasedDecryptionPolicy": []
