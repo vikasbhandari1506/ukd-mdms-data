@@ -1239,6 +1239,12 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
