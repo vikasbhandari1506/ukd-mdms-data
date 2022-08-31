@@ -469,7 +469,7 @@
           "jsonPath": "connectionHolders/*/ownerType",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
-        },        
+        },
         {
           "name": "plumberInfoMobileNumber",
           "jsonPath": "plumberInfo/*/mobileNumber",
@@ -481,13 +481,13 @@
         {
           "roles": ["EMPLOYEE"],
           "attributeAccessList": [
-            
+
             {
               "attribute": "ownerType",
               "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
-           
+
             {
               "attribute": "plumberInfoMobileNumber",
               "firstLevelVisibility": "MASKED",
@@ -504,7 +504,7 @@
         "jsonPath": "uuid"
       },
       "attributes": [
-      
+
         {
           "name": "connectionHoldersMobileNumber",
           "jsonPath": "mobileNumber",
@@ -721,6 +721,22 @@
     },
     {
       "model": "MiscReceiptULBCancelled",
+      "uniqueIdentifier": {
+        "name": "user_uuid",
+        "jsonPath": "user_uuid"
+      },
+      "attributes": [
+        {
+          "name": "username",
+          "jsonPath": "username",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
+    },
+    {
+      "model": "MiscReceiptULBShort",
       "uniqueIdentifier": {
         "name": "user_uuid",
         "jsonPath": "user_uuid"
