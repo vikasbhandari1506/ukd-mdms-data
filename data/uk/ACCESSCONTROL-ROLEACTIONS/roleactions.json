@@ -6174,6 +6174,12 @@
     },
     {
       "rolecode": "STADMIN",
+      "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "STADMIN",
       "actionid": 1824,
       "actioncode": "",
       "tenantId": "uk"
