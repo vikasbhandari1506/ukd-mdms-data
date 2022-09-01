@@ -1247,7 +1247,18 @@
               "accessType": "PLAIN"
             }
           ]
-        }
+        },
+        {
+          "roleCode": "PTCEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }  
       ]
     },
     {
