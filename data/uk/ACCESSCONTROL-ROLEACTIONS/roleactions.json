@@ -8277,6 +8277,12 @@
       "actionid": 2137,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2138,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
