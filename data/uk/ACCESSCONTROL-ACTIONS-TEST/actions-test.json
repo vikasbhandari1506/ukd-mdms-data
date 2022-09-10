@@ -9449,6 +9449,17 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2138,
+      "name":"Send SMS to unpaid properties",
+      "url":"/ukd-custom-service/pt/notify",
+      "displayName":"PT send SMS util",
+      "orderNumber":1,
+      "enabled":false,
+      "serviceCode":"ukd-custom-service",
+      "code":"null",
+      "path":""
     }
   ]
 }
