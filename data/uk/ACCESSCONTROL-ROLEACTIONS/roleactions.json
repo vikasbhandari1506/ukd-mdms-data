@@ -6389,12 +6389,6 @@
       "tenantId": "uk"
     },
     {
-      "rolecode": "TL_CEMP",
-      "actionid": 1911,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
       "rolecode": "PTFEMP",
       "actionid": 1911,
       "actioncode": "",
