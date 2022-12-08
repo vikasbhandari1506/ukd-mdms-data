@@ -660,7 +660,7 @@
           "applicationType": "NEW",
           "documentList": [
             "AADPANCARD",
-            "AC028",
+            "AC057",
             "OWNERPHOTO"
           ]
         },
@@ -668,7 +668,7 @@
           "applicationType": "RENEWAL",
           "documentList": [
             "AADPANCARD",
-            "AC028",
+            "AC057",
             "OWNERPHOTO",
             "OLDLICENSENO"
           ]
