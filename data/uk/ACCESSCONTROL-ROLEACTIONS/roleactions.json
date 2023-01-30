@@ -8277,6 +8277,12 @@
       "actionid": 2138,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2139,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
