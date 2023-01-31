@@ -9460,6 +9460,17 @@
       "serviceCode":"ukd-custom-service",
       "code":"null",
       "path":""
+    },
+    {
+      "id": 2139,
+      "name":"Single Window Integration",
+      "url":"/tl-services/swi/_sso",
+      "displayName":"Single SignOn",
+      "orderNumber":1,
+      "enabled":false,
+      "serviceCode":"single-signon",
+      "code":"null",
+      "path":""
     }
   ]
 }
