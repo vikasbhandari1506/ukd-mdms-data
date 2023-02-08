@@ -1101,7 +1101,7 @@
       "type": "CITY",
       "twitterUrl": "",
       "facebookUrl": "",
-      "emailId": "dhirenmamgain4973@gmail.com",
+      "emailId": "eonpjonk@gmail.com",
       "OfficeTimings": {
         "Mon - Sat": "10.00 AM - 5.00 PM"
       },
@@ -3102,6 +3102,39 @@
         "ddrName": "Almora"
       },
       "address": "Nagar Panchayat Chaukhutiya",
+      "contactNumber": null
+    },
+    {
+      "code": "uk.selaqui",
+      "name": "Selaqui",
+      "description": "Selaqui",
+      "logoId": "https://nagarsewa-uat.uk.gov.in/ukd-assets/uk.selaqui/logo.png",
+      "imageId": null,
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "npselaqui@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Selaqui",
+        "localName": "Selaqui",
+        "districtCode": "49",
+        "districtName": "Dehradun",
+        "regionName": "Garhwal",
+        "ulbGrade": "NP",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "275633",
+        "regionCode": "1",
+        "municipalityName": "Nagar Panchayat selaqui",
+        "ddrName": "Dehradun"
+      },
+      "address": "Nagar Panchayat selaqui",
       "contactNumber": null
     }
   ]
