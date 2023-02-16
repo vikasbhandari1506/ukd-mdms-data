@@ -8289,6 +8289,18 @@
       "actionid": 1866,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1690,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1778,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
