@@ -244,7 +244,7 @@
                 ]
               },
               {
-                "id": "d8821cc1-4ab9-40a6-b98c-df51231ee73c",
+                "id": "b051f3bf-677e-48ff-92c1-39939b37a9fd",
                 "boundaryNum": 1,
                 "name": "Ambedkarnagar Old Ward No-1",
                 "localname": "Ambedkarnagar Old Ward No-1",
@@ -254,21 +254,21 @@
                 "code": "W12001",
                 "children": [
                   {
-                    "id": "38676f86-6856-471f-933b-d4fd0652ddff",
+                    "id": "a2c7d137-95dd-4ca3-a31d-3c31339aac7b",
                     "boundaryNum": 1,
-                    "name": "Ambedkarnagar Old Ward No-1 - Ambedkarnagar Old Ward No-1",
-                    "localname": "Ambedkarnagar Old Ward No-1 - Ambedkarnagar Old Ward No-1",
+                    "name": "Ambedkarnagar New Ward No-20 - Ambedkarnagar Old Ward No-1",
+                    "localname": "Ambedkarnagar New Ward No-20 - Ambedkarnagar Old Ward No-1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0081",
+                    "code": "M0101",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "2a3933eb-04a7-4ee8-a383-7e0520d47b45",
+                "id": "ab57a285-389f-458e-a5fe-906bb5e3ee0d",
                 "boundaryNum": 1,
                 "name": "Thana Old Ward No-2",
                 "localname": "Thana Old Ward No-2",
@@ -278,21 +278,33 @@
                 "code": "W12002",
                 "children": [
                   {
-                    "id": "de8f2b19-323f-4042-b0e8-055a1972f90f",
+                    "id": "f88b222a-18de-440e-9fd1-414ecedb3dcd",
                     "boundaryNum": 1,
-                    "name": "Thana Old Ward No-2 - Thana Old Ward No-2",
-                    "localname": "Thana Old Ward No-2 - Thana Old Ward No-2",
+                    "name": "Ambedkarnagar New Ward No-20 - Thana Old Ward No-2",
+                    "localname": "Ambedkarnagar New Ward No-20 - Thana Old Ward No-2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0082",
+                    "code": "M0102",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fe19fec4-db18-4c5f-9dd9-2328be68da2f",
+                    "boundaryNum": 1,
+                    "name": "Misserwala New Ward No-1 - Thana Old Ward No-2",
+                    "localname": "Misserwala New Ward No-1 - Thana Old Ward No-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0103",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "aa15797f-00ef-47cd-85ad-1ef9b1be8c08",
+                "id": "0b68ddc0-ac67-4959-930c-96754506d1fc",
                 "boundaryNum": 1,
                 "name": "Trigharat Old Ward No-3",
                 "localname": "Trigharat Old Ward No-3",
@@ -302,21 +314,33 @@
                 "code": "W12003",
                 "children": [
                   {
-                    "id": "68f0092a-aefe-4728-825c-ee0ff4ad55e4",
+                    "id": "06af2c20-cd57-4c61-a60a-266fea36ce61",
                     "boundaryNum": 1,
-                    "name": "Trigharat Old Ward No-3 - Trigharat Old Ward No-3",
-                    "localname": "Trigharat Old Ward No-3 - Trigharat Old Ward No-3",
+                    "name": "Misserwala New Ward No-1 - Trigharat Old Ward No-3",
+                    "localname": "Misserwala New Ward No-1 - Trigharat Old Ward No-3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0083",
+                    "code": "M0104",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "51197e85-39c4-42d9-9846-58ec3ff46897",
+                    "boundaryNum": 1,
+                    "name": "Trigharat New Ward No-13 - Trigharat Old Ward No-3",
+                    "localname": "Trigharat New Ward No-13 - Trigharat Old Ward No-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0105",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "9ea17956-26fa-46a1-84be-87d62692e4e0",
+                "id": "21ddddb5-3143-44a5-9c70-88eb762a488e",
                 "boundaryNum": 1,
                 "name": "Mill Area Old Ward No-4",
                 "localname": "Mill Area Old Ward No-4",
@@ -326,21 +350,33 @@
                 "code": "W12004",
                 "children": [
                   {
-                    "id": "7c792d0b-580c-457e-9e8b-a08fb318a898",
+                    "id": "913e229b-69da-4c0f-ae2f-56f0b22989d6",
                     "boundaryNum": 1,
-                    "name": "Mill Area Old Ward No-4 - Mill Area Old Ward No-4",
-                    "localname": "Mill Area Old Ward No-4 - Mill Area Old Ward No-4",
+                    "name": "Trigharat New Ward No-13 - Mill Area Old Ward No-4",
+                    "localname": "Trigharat New Ward No-13 - Mill Area Old Ward No-4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0084",
+                    "code": "M0106",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ec127169-1b2a-47f6-82fd-2f4ca4c50ab3",
+                    "boundaryNum": 1,
+                    "name": "Rajivnagar New Ward No-12 - Mill Area Old Ward No-4",
+                    "localname": "Rajivnagar New Ward No-12 - Mill Area Old Ward No-4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0107",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "7df87442-7478-4fec-aea4-f1e74cf8d311",
+                "id": "632c0193-9c6f-4875-aa5d-1be9d452378f",
                 "boundaryNum": 1,
                 "name": "Ravidas Mandir Old Ward No-5",
                 "localname": "Ravidas Mandir Old Ward No-5",
@@ -350,21 +386,33 @@
                 "code": "W12005",
                 "children": [
                   {
-                    "id": "0f6c4bb5-d97f-4bf7-81b8-16d2cd7e9aca",
+                    "id": "0e7027cb-ffd1-4b8c-b44c-af00c797ac9f",
                     "boundaryNum": 1,
-                    "name": "Ravidas Mandir Old Ward No-5 - Ravidas Mandir Old Ward No-5",
-                    "localname": "Ravidas Mandir Old Ward No-5 - Ravidas Mandir Old Ward No-5",
+                    "name": "Trigharat New Ward No-13 - Ravidas Mandir Old Ward No-5",
+                    "localname": "Trigharat New Ward No-13 - Ravidas Mandir Old Ward No-5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0085",
+                    "code": "M0108",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c1fa5c6e-9d73-401c-8889-e719b2f5d296",
+                    "boundaryNum": 1,
+                    "name": "Premnagar New Ward No-18 - Ravidas Mandir Old Ward No-5",
+                    "localname": "Premnagar New Ward No-18 - Ravidas Mandir Old Ward No-5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0109",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "3fd4aa17-e9fb-479a-bd56-2797cd3ebdfb",
+                "id": "efe42b9c-62c4-4311-b7ec-fb19139fb029",
                 "boundaryNum": 1,
                 "name": "Gyan Vihar Old Ward No-6",
                 "localname": "Gyan Vihar Old Ward No-6",
@@ -374,21 +422,33 @@
                 "code": "W12006",
                 "children": [
                   {
-                    "id": "2ca986ba-75a8-45ee-96b0-60f0cf97bda4",
+                    "id": "bff53da9-e855-44b4-8fdb-022696c834a5",
                     "boundaryNum": 1,
-                    "name": "Gyan Vihar Old Ward No-6 - Gyan Vihar Old Ward No-6",
-                    "localname": "Gyan Vihar Old Ward No-6 - Gyan Vihar Old Ward No-6",
+                    "name": "Premnagar New Ward No-18 - Gyan Vihar Old Ward No-6",
+                    "localname": "Premnagar New Ward No-18 - Gyan Vihar Old Ward No-6",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0086",
+                    "code": "M0110",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "673d96cb-0d5a-41ed-90ce-f488c790a082",
+                    "boundaryNum": 1,
+                    "name": "Chandmari New Ward No-19 - Gyan Vihar Old Ward No-6",
+                    "localname": "Chandmari New Ward No-19 - Gyan Vihar Old Ward No-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0111",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "98e736b0-6e4c-47d8-b2f5-d4c3f33d3037",
+                "id": "9d0e2d73-c260-4977-9f11-b1a6a0b8034f",
                 "boundaryNum": 1,
                 "name": "Premnagar Old Ward No-7",
                 "localname": "Premnagar Old Ward No-7",
@@ -398,14 +458,338 @@
                 "code": "W12007",
                 "children": [
                   {
-                    "id": "e4e71da8-f825-4968-bad1-c679bc65d303",
+                    "id": "89e9a2f4-2abc-4bbb-8465-9cc68adfb6d8",
                     "boundaryNum": 1,
-                    "name": "Premnagar Old Ward No-7 - Premnagar Old Ward No-7",
-                    "localname": "Premnagar Old Ward No-7 - Premnagar Old Ward No-7",
+                    "name": "Kurkawala New Ward No-17 - Premnagar Old Ward No-7",
+                    "localname": "Kurkawala New Ward No-17 - Premnagar Old Ward No-7",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0087",
+                    "code": "M0112",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "192156ab-4890-4d9c-8f6f-1ea70e497940",
+                    "boundaryNum": 1,
+                    "name": "Premnagar New Ward No-18 - Premnagar Old Ward No-7",
+                    "localname": "Premnagar New Ward No-18 - Premnagar Old Ward No-7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0113",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "563f5166-6dfe-4c41-b808-39cc3bd8d286",
+                "boundaryNum": 1,
+                "name": "Aryanagar New Ward No-2",
+                "localname": "Aryanagar New Ward No-2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17455",
+                "children": [
+                  {
+                    "id": "8bc939db-8e05-49fa-900b-6d7bb6fac008",
+                    "boundaryNum": 1,
+                    "name": "Aryanagar New Ward No-2 - Aryanagar New Ward No-2",
+                    "localname": "Aryanagar New Ward No-2 - Aryanagar New Ward No-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0114",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "33a85787-c7ac-425d-8423-d85aae5b1f38",
+                "boundaryNum": 1,
+                "name": "Kanharwala New Ward No-3",
+                "localname": "Kanharwala New Ward No-3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17456",
+                "children": [
+                  {
+                    "id": "e327449b-b739-42d6-a2f3-90c124601c48",
+                    "boundaryNum": 1,
+                    "name": "Kanharwala New Ward No-3 - Kanharwala New Ward No-3",
+                    "localname": "Kanharwala New Ward No-3 - Kanharwala New Ward No-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0115",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8e72aa31-d4c4-4524-96f5-5ebd45ff114c",
+                "boundaryNum": 1,
+                "name": "Baruwala New Ward No-4",
+                "localname": "Baruwala New Ward No-4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17457",
+                "children": [
+                  {
+                    "id": "752cc838-28cd-4fc6-ab76-8a96f2197a4f",
+                    "boundaryNum": 1,
+                    "name": "Baruwala New Ward No-4 - Baruwala New Ward No-4",
+                    "localname": "Baruwala New Ward No-4 - Baruwala New Ward No-4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0116",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "943a3041-3e12-4601-8009-169bbc4ef083",
+                "boundaryNum": 1,
+                "name": "Bichli Jolly New Ward No-5",
+                "localname": "Bichli Jolly New Ward No-5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17458",
+                "children": [
+                  {
+                    "id": "b31a4b3b-07ec-4775-b0a2-f7cc1d96df52",
+                    "boundaryNum": 1,
+                    "name": "Bichli Jolly New Ward No-5 - Bichli Jolly New Ward No-5",
+                    "localname": "Bichli Jolly New Ward No-5 - Bichli Jolly New Ward No-5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0117",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b4571e31-1fe0-41a7-b9d6-0e03e3e0b5a3",
+                "boundaryNum": 1,
+                "name": "Swami Ramnagar New Ward No-6",
+                "localname": "Swami Ramnagar New Ward No-6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17459",
+                "children": [
+                  {
+                    "id": "36a6354f-1528-4b7e-bb32-219b1353f55e",
+                    "boundaryNum": 1,
+                    "name": "Swami Ramnagar New Ward No-6 - Swami Ramnagar New Ward No-6",
+                    "localname": "Swami Ramnagar New Ward No-6 - Swami Ramnagar New Ward No-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0118",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ff801cbe-26be-4304-acd2-6e178f0169fa",
+                "boundaryNum": 1,
+                "name": "Swami Ramnagar New Ward No-6",
+                "localname": "Swami Ramnagar New Ward No-6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17460",
+                "children": [
+                  {
+                    "id": "6a56c41e-2a2a-4443-af07-692c56d7d32a",
+                    "boundaryNum": 1,
+                    "name": "Jollygrant New Ward No-7 - Swami Ramnagar New Ward No-6",
+                    "localname": "Jollygrant New Ward No-7 - Swami Ramnagar New Ward No-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0119",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9bcd565c-fa51-4bcf-830a-2b7ce3311797",
+                "boundaryNum": 1,
+                "name": "Athoorwala 1st New Ward No-8",
+                "localname": "Athoorwala 1st New Ward No-8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296736",
+                "children": [
+                  {
+                    "id": "afa86a24-fe35-4a57-be8d-ceae35208301",
+                    "boundaryNum": 1,
+                    "name": "Athoorwala 1st New Ward No-8 - Athoorwala 1st New Ward No-8",
+                    "localname": "Athoorwala 1st New Ward No-8 - Athoorwala 1st New Ward No-8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0120",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c6bfdb32-cc11-4f49-8af1-cc32da609833",
+                "boundaryNum": 1,
+                "name": "Athoorwala 2nd New Ward No-9",
+                "localname": "Athoorwala 2nd New Ward No-9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296737",
+                "children": [
+                  {
+                    "id": "ef8921ed-9d62-4987-ac86-009c1b896196",
+                    "boundaryNum": 1,
+                    "name": "Athoorwala 2nd New Ward No-9 - Athoorwala 2nd New Ward No-9",
+                    "localname": "Athoorwala 2nd New Ward No-9 - Athoorwala 2nd New Ward No-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0121",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ef1f9deb-fc11-46ce-87e8-35ba8e5135d0",
+                "boundaryNum": 1,
+                "name": "Bhaniyawala New Ward No-10",
+                "localname": "Bhaniyawala New Ward No-10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296738",
+                "children": [
+                  {
+                    "id": "c4ae55c5-47e7-4325-a3eb-043225d87214",
+                    "boundaryNum": 1,
+                    "name": "Bhaniyawala New Ward No-10 - Bhaniyawala New Ward No-10",
+                    "localname": "Bhaniyawala New Ward No-10 - Bhaniyawala New Ward No-10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0122",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "602532d9-1f66-45d0-baa9-c3037c198ea9",
+                "boundaryNum": 1,
+                "name": "Kesavpuri New Ward No-11",
+                "localname": "Kesavpuri New Ward No-11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296739",
+                "children": [
+                  {
+                    "id": "3b4fbcff-26fc-4abb-b749-dcb87ad587df",
+                    "boundaryNum": 1,
+                    "name": "Kesavpuri New Ward No-11 - Kesavpuri New Ward No-11",
+                    "localname": "Kesavpuri New Ward No-11 - Kesavpuri New Ward No-11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0123",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "98fa5f4f-8700-48c0-8337-4744b5c38e78",
+                "boundaryNum": 1,
+                "name": "Khatta New Ward No-14",
+                "localname": "Khatta New Ward No-14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296742",
+                "children": [
+                  {
+                    "id": "166f4ab7-cfba-49d1-b101-b1f4d57c570d",
+                    "boundaryNum": 1,
+                    "name": "Khatta New Ward No-14 - Khatta New Ward No-14",
+                    "localname": "Khatta New Ward No-14 - Khatta New Ward No-14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0124",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e2b9fcf0-d1dd-4f66-b6ec-3a3098bd64c5",
+                "boundaryNum": 1,
+                "name": "Niyamwala New Ward No-15",
+                "localname": "Niyamwala New Ward No-15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296743",
+                "children": [
+                  {
+                    "id": "243aac4c-3f79-4fab-bdd8-fdd19247ee21",
+                    "boundaryNum": 1,
+                    "name": "Niyamwala New Ward No-15 - Niyamwala New Ward No-15",
+                    "localname": "Niyamwala New Ward No-15 - Niyamwala New Ward No-15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0125",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "deb3646b-fa61-47fb-b586-d12c2b6909f8",
+                "boundaryNum": 1,
+                "name": "Telliwala New Ward No-16",
+                "localname": "Telliwala New Ward No-16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296744",
+                "children": [
+                  {
+                    "id": "dca18fec-7b6c-4626-826f-258d077b830a",
+                    "boundaryNum": 1,
+                    "name": "Telliwala New Ward No-16 - Telliwala New Ward No-16",
+                    "localname": "Telliwala New Ward No-16 - Telliwala New Ward No-16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0126",
                     "area": "AREA1",
                     "children": []
                   }
