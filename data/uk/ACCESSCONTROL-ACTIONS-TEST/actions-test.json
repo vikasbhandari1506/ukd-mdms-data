@@ -7139,7 +7139,7 @@
     {
       "id":1950,
       "name":"TLApplicationWiseData_L3",
-      "url":"/report/rainmaker-tl/TLApplicationWiseData_L3/metadata/_get",
+      "url":"/report/rainmaker-tl/TLApplicationWiseData_L3/_get",
       "displayName":"Trade License Application Wise Data",
       "orderNumber":7,
       "parentModule":"rainmaker-tl",
@@ -9342,21 +9342,6 @@
       "rightIcon":""
     },
     {
-      "id":1950,
-      "name":"TLApplicationWiseData_L3",
-      "url":"/report/rainmaker-tl/TLApplicationWiseData_L3/metadata/_get",
-      "displayName":"Trade License Application Wise Data",
-      "orderNumber":7,
-      "parentModule":"rainmaker-tl",
-      "enabled":true,
-      "serviceCode":"TL",
-      "code":"null",
-      "path":"Trade License.TL Reports.TLApplicationWiseData_L3",
-      "navigationURL":"report/rainmaker-tl/TLApplicationWiseData_L3",
-      "leftIcon":"action:assignment",
-      "rightIcon":""
-    },
-    {
       "id":1951,
       "name":"TradeLicenseCitizen",
       "url":"url",
@@ -9471,6 +9456,21 @@
       "serviceCode":"single-signon",
       "code":"null",
       "path":""
+    },
+    {
+      "id":2140,
+      "name":"TLApplicationWiseData_L3",
+      "url":"/report/rainmaker-tl/TLApplicationWiseData_L3/metadata/_get",
+      "displayName":"Trade License Application Wise Data",
+      "orderNumber":7,
+      "parentModule":"rainmaker-tl",
+      "enabled":true,
+      "serviceCode":"TL",
+      "code":"null",
+      "path":"Trade License.TL Reports.TLApplicationWiseData_L3",
+      "navigationURL":"report/rainmaker-tl/TLApplicationWiseData_L3",
+      "leftIcon":"action:assignment",
+      "rightIcon":""
     }
   ]
 }
