@@ -7723,6 +7723,32 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
+      },
+    {
+      "code": "TRADE.TRANSPORT.A7SEAT",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AC055",
+            "AC013",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AC055",
+            "AC013",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
       }
     ]
 }
