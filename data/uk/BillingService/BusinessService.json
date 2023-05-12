@@ -11,7 +11,7 @@
         "CARD"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isBillAmendmentEnabled": "true",
