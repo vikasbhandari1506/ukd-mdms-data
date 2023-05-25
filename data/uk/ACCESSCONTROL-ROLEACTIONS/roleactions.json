@@ -8325,6 +8325,12 @@
       "actionid": 1778,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 2143,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
