@@ -9493,6 +9493,21 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
+    },
+    {
+      "id":2144,
+      "name":"PT Assessment Report",
+      "url":"/report/rainmaker-pt/PTAssessmentReport/metadata/_get",
+      "displayName":"PT Assessment Report",
+      "orderNumber":2,
+      "queryParams":"",
+      "parentModule":"",
+      "enabled":true,
+      "serviceCode":"",
+      "path":"Property Tax.PT Reports.PTAssessmentReport",
+      "navigationURL":"report/rainmaker-pt/PTAssessmentReport",
+      "leftIcon":"action:assignment",
+      "rightIcon":""
     }
   ]
 }
