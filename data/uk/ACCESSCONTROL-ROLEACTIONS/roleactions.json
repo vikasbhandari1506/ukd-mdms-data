@@ -8325,6 +8325,18 @@
       "actionid": 1778,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 2143,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 2144,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
