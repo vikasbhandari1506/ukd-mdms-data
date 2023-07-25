@@ -2,6 +2,7 @@
   "ACCESSCONTROL-ACTIONS-TEST": {
     "actions-test": {
       "masterName": "actions-test",
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.id"
       ]
@@ -19,6 +20,7 @@
   "ACCESSCONTROL-ROLEACTIONS": {
     "roleactions": {
       "masterName": "roleactions",
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.rolecode",
         "$.actionid",
