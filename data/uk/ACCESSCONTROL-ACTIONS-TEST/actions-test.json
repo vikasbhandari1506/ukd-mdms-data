@@ -9497,7 +9497,7 @@
     {
       "id": 2144,
       "name": "PT Assessment Report",
-      "URL": "/report/rainmaker-pt/PTAssessmentReport/metadata/_get",
+      "url": "/report/rainmaker-pt/PTAssessmentReport/metadata/_get",
       "displayName": "PT Assessment Report",
       "orderNumber": 2,
       "queryParams": "",
