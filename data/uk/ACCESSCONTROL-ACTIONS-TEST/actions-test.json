@@ -9523,6 +9523,18 @@
       "navigationURL": "report/rainmaker-pt/PTUpdateMobileReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id":2146,
+      "name":"Create TradeLicense Single Sign On",
+      "url":"/tl-services/external/_create",
+      "parentModule":"",
+      "displayName":"Create TradeLicense Single Sign On",
+      "orderNumber":0,
+      "enabled":false,
+      "serviceCode":"tl-services",
+      "code":"null",
+      "path":""
     }
   ]
 }
