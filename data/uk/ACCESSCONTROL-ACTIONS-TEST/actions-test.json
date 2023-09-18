@@ -9550,6 +9550,21 @@
       "navigationURL": "report/rainmaker-pt/PTAssessmentReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 2148,
+      "name": "PT Update MobileNo Report",
+      "url": "/report/rainmaker-pt/PTUpdateMobile/_get",
+      "displayName": "PT Update MobileNo Report",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.PTUpdateMobileReport",
+      "navigationURL": "report/rainmaker-pt/PTUpdateMobileReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
