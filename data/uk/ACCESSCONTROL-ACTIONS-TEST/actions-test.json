@@ -9535,6 +9535,21 @@
       "serviceCode":"tl-services",
       "code":"null",
       "path":""
+    },
+    {
+      "id": 2147,
+      "name": "PT Assessment Report",
+      "url": "/report/rainmaker-pt/PTAssessmentReport/_get",
+      "displayName": "PT Assessment Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.PTAssessmentReport",
+      "navigationURL": "report/rainmaker-pt/PTAssessmentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
