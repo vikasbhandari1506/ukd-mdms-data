@@ -5764,7 +5764,7 @@
          "displayName":"Update Demand",
          "orderNumber":1,
          "parentModule":"",
-         "enabled": true,
+         "enabled":true,
          "serviceCode":"pt-calculator-v2",
          "code":"null",
          "path":""
