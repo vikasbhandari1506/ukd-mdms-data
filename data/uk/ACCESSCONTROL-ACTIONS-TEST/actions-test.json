@@ -9449,6 +9449,36 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2138,
+      "name": "PT Assessment Report",
+      "url": "/report/rainmaker-pt/PTAssessmentReport/metadata/_get",
+      "displayName": "PT Assessment Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.PTAssessmentReport",
+      "navigationURL": "report/rainmaker-pt/PTAssessmentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2139,
+      "name": "PT Assessment Report",
+      "url": "/report/rainmaker-pt/PTAssessmentReport/_get",
+      "displayName": "PT Assessment Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.PTAssessmentReport",
+      "navigationURL": "report/rainmaker-pt/PTAssessmentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
