@@ -1144,7 +1144,7 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 2000,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
