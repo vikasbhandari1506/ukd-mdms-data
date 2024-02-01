@@ -575,7 +575,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.RIKOWN",
+      "code": "TRADE.TRANSPORT.RIKDR",
       "uom": null,
       "applicationDocument": [
         {
@@ -835,7 +835,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.CYSHOP",
+      "code": "TRADE.SHOP.CYAGEN",
       "uom": null,
       "applicationDocument": [
         {
@@ -1563,7 +1563,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.GMERS",
+      "code": "TRADE.SHOP.TR49",
       "uom": null,
       "applicationDocument": [
         {
@@ -1901,7 +1901,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.BHUSRE",
+      "code": "TRADE.SHOP.BHUSR",
       "uom": null,
       "applicationDocument": [
         {
@@ -2213,7 +2213,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.RDGBIG",
+      "code": "TRADE.SHOP.RDYBIG",
       "uom": null,
       "applicationDocument": [
         {
@@ -2343,7 +2343,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.TOURG",
+      "code": "TRADE.TRANSPORT.GL",
       "uom": null,
       "applicationDocument": [
         {
@@ -2421,7 +2421,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.GENMER",
+      "code": "TRADE.SHOP.GMS",
       "uom": null,
       "applicationDocument": [
         {
