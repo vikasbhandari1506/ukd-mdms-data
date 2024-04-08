@@ -41,6 +41,10 @@
     {
       "rate": 0,
       "financialYear": "2023-24"
+    },
+     {
+      "rate": 10,
+      "financialYear": "2024-25"
     }
   ]
 }
