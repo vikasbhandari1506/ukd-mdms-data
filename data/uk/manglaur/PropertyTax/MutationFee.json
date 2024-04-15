@@ -12,14 +12,14 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
             "startingDay": 1648771200000,
-            "endingDay": 1680307199000
+            "endingDay": 1680307199000 
           },
           {
             "applicationFee": 0,
@@ -28,19 +28,27 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+            {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "SALEDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -48,25 +56,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "REGISTEREDWILLDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -74,25 +90,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "PROPERTYAUCTION": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -100,25 +124,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "PARTITIONDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -126,25 +158,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "GIFTDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -152,25 +192,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "SUCCESSIONORDEATHCERTIFICATE": [
           {
-            "applicationFee": 100,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 100,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -178,25 +226,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 100,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "PATTACERTIFICATE": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -204,25 +260,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "COURTDECREE": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -230,25 +294,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "FAMILYSETTLEMENT": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -256,12 +328,20 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "FREEHOLDREGISTRY": [
@@ -272,7 +352,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -288,6 +368,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "SALEPOWEROFATTORNEY": [
@@ -298,7 +386,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -314,6 +402,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "UNREGISTEREDWILLDEED": [
@@ -324,7 +420,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -340,6 +436,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "NAMECORRECTIONCLERICAL": [
@@ -350,7 +454,7 @@
             "forFY": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -366,6 +470,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "RELINQUISHDEED": [
@@ -392,6 +504,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ]
       },
@@ -404,7 +524,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -420,19 +540,27 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "SALEDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -440,25 +568,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "REGISTEREDWILLDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -466,25 +602,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "PROPERTYAUCTION": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -492,25 +636,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "PARTITIONDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -518,25 +670,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "GIFTDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -544,25 +704,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "SUCCESSIONORDEATHCERTIFICATE": [
           {
-            "applicationFee": 100,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 100,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -570,25 +738,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 100,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "PATTACERTIFICATE": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -596,25 +772,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "COURTDECREE": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -622,25 +806,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "FAMILYSETTLEMENT": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -648,12 +840,20 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "FREEHOLDREGISTRY": [
@@ -664,7 +864,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -680,6 +880,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "SALEPOWEROFATTORNEY": [
@@ -690,7 +898,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -706,6 +914,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "UNREGISTEREDWILLDEED": [
@@ -716,7 +932,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -732,6 +948,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "NAMECORRECTIONCLERICAL": [
@@ -742,7 +966,7 @@
             "forFY": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -758,6 +982,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "RELINQUISHDEED": [
@@ -784,6 +1016,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ]
       },
@@ -796,7 +1036,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -812,19 +1052,27 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "SALEDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -832,25 +1080,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "REGISTEREDWILLDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -858,25 +1114,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "PROPERTYAUCTION": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -884,25 +1148,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "PARTITIONDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -910,25 +1182,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "GIFTDEED": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -936,25 +1216,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "SUCCESSIONORDEATHCERTIFICATE": [
           {
-            "applicationFee": 100,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 100,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -962,25 +1250,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 100,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "PATTACERTIFICATE": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -988,25 +1284,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "COURTDECREE": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -1014,25 +1318,33 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "FAMILYSETTLEMENT": [
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2022-23",
@@ -1040,12 +1352,20 @@
             "endingDay": 1680307199000
           },
           {
-            "applicationFee": 500,
+            "applicationFee": 0,
             "processingFee": 0,
             "publicationFee": 0,
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "FREEHOLDREGISTRY": [
@@ -1056,7 +1376,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -1072,6 +1392,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "SALEPOWEROFATTORNEY": [
@@ -1082,7 +1410,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -1098,6 +1426,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "UNREGISTEREDWILLDEED": [
@@ -1108,7 +1444,7 @@
             "forFy": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -1124,6 +1460,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "NAMECORRECTIONCLERICAL": [
@@ -1134,7 +1478,7 @@
             "forFY": "2021-22",
             "startingDay": 1617235200000,
             "endingDay": 1648684800000
-           },
+          },
           {
             "applicationFee": 0,
             "processingFee": 0,
@@ -1150,6 +1494,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ],
         "RELINQUISHDEED": [
@@ -1176,6 +1528,14 @@
             "forFy": "2023-24",
             "startingDay": 1680307200000,
             "endingDay": 1711929599000
+          },
+          {
+            "applicationFee": 0,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2024-25",
+            "startingDay": 1711929600000,
+            "endingDay": 1743465599000
           }
         ]
       }
