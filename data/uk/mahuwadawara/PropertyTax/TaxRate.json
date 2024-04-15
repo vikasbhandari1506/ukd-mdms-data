@@ -101,6 +101,26 @@
       "fromFY": "2023-24",
       "startingDay": "01/04/2023",
       "endingDay": "31/03/2024"
+    },
+    {
+      "rate": 3.33,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "taxhead": "General Tax (Residential)",
+      "fromFY": "2024-25",
+      "startingDay": "01/04/2024",
+      "endingDay": "31/03/2025"
+    },
+    {
+      "rate": 3.33,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "taxhead": "General Tax (Non-residential)",
+      "fromFY": "2024-25",
+      "startingDay": "01/04/2024",
+      "endingDay": "31/03/2025"
     }
   ]
 }
